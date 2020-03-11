@@ -3,9 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 
 const shareData = {
-  title: 'MDN',
-  text: 'Learn web development on MDN!',
-  url: 'https://developer.mozilla.org',
+  title: 'This is a custom title of the sharable content',
+  text: 'This is a sharable text of the message',
+  url: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',
 };
 
 function App() {
