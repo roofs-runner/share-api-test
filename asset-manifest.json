@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/share-api-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/share-api-test/static/js/main.c39f3d62.chunk.js",
-    "main.js.map": "/share-api-test/static/js/main.c39f3d62.chunk.js.map",
+    "main.js": "/share-api-test/static/js/main.d9493729.chunk.js",
+    "main.js.map": "/share-api-test/static/js/main.d9493729.chunk.js.map",
     "runtime-main.js": "/share-api-test/static/js/runtime-main.875fbff2.js",
     "runtime-main.js.map": "/share-api-test/static/js/runtime-main.875fbff2.js.map",
     "static/js/2.bed310fe.chunk.js": "/share-api-test/static/js/2.bed310fe.chunk.js",
     "static/js/2.bed310fe.chunk.js.map": "/share-api-test/static/js/2.bed310fe.chunk.js.map",
     "index.html": "/share-api-test/index.html",
-    "precache-manifest.2b6d67a4dbd44587054625512948ebd5.js": "/share-api-test/precache-manifest.2b6d67a4dbd44587054625512948ebd5.js",
+    "precache-manifest.894e7e3ea0ed6c9dd7bb5c70ca9f2972.js": "/share-api-test/precache-manifest.894e7e3ea0ed6c9dd7bb5c70ca9f2972.js",
     "service-worker.js": "/share-api-test/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/share-api-test/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.bed310fe.chunk.js.LICENSE.txt": "/share-api-test/static/js/2.bed310fe.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.875fbff2.js",
     "static/js/2.bed310fe.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c39f3d62.chunk.js"
+    "static/js/main.d9493729.chunk.js"
   ]
 }
