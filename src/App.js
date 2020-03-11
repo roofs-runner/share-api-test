@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 const shareData = {
-  title: 'This is a custom title of the sharable content',
+  title: 'This is a custom title',
   text: 'This is a sharable text of the message',
   url: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',
 };
