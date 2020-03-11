@@ -2,13 +2,12 @@ import React, { useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-const shareData = {
-  title: 'This is a custom title',
-  text: 'This is a sharable text of the message',
-  url: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',
-};
-
 function App() {
+  const shareData = {
+    title: 'This is a custom title',
+    text: 'This is a custom text entered by Sergiy',
+    url: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',
+  };
 
   useEffect(() => {
     const btn = document.querySelector('button');
